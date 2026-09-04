@@ -1,0 +1,1 @@
+window.NFL_EDGE_META={"generated":"2026-09-12T01:25:19+00:00","season":2026,"week":1,"counts":{"games":16,"offense":492,"defense":509,"plays":49094,"participation":45184},"depth_charts_as_of":"2026-09-11T12:21:50Z"};
